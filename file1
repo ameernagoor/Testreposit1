@@ -1,2 +1,12 @@
-this is fix
-how ru man
+class()
+{
+
+        public static void main()
+	{
+
+	     console.writeline("haiii")
+
+	 }
+	     
+	     
+}
